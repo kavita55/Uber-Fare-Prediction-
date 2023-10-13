@@ -1,6 +1,6 @@
 # Uber Fare Prediction
 
-![Uber Logo](https://www.uber.com/images/uber-com/social-share.png)
+![Uber Logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180728%2Fvsw%2Fkisspng-logo-uber-brand-logo-uber-5b5c5cc0f1b550.8818960215327797129901.jpg&tbnid=0p40JTsNmz1HiM&vet=12ahUKEwjqqsn-jfOBAxXpmmMGHdz5DGIQMygFegQIARBP..i&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-logo-uber-brand-logo-uber-5912739%2F&docid=Gm-HvxFPD_mCZM&w=900&h=500&q=uber%20logo%20png%202023&ved=2ahUKEwjqqsn-jfOBAxXpmmMGHdz5DGIQMygFegQIARBP)
 
 ## Description
 
